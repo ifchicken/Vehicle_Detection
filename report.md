@@ -50,7 +50,7 @@ Here are 2 example(1 car and 1 not car) using the `RGB` color space and HOG para
 
 ![alt text][image3]
 
-![alt text][image3]
+![alt text][image4]
 
 #### 2. Explain how you settled on your final choice of HOG parameters.
 
